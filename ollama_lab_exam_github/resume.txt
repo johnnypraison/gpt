@@ -1,0 +1,4 @@
+Name: Sample Student
+Education: B.Tech Computer Science
+Skills: Python, SQL, HTML, CSS
+Projects: Student Attendance System
